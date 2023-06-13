@@ -1,0 +1,13 @@
+server:
+  port: 8090
+  servlet:
+    context-path: /chapter
+
+    student:
+      id:0006
+      name:个人
+      hobby:[bastketball,football,read]
+      elect-product:[phone,pc]
+      frindes:{key;mn.key2:hdh}
+      course:{courseId:0069,couserName:天涯}
+      age:25
